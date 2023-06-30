@@ -2,7 +2,7 @@
 title: 【Linux笔记】Shell
 top_img: #/assets/pixiv/1102108.jpg
 comments: true
-cover: /assets/pixiv/107031377_p0.jpg
+cover: https://cdn.jsdelivr.net/gh/k0191/Hexo/source/assets/pixiv/107031377_p0.jpg
 toc: true
 toc_number: false
 toc_style_simple: false
